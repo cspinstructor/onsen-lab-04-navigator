@@ -1,14 +1,4 @@
-# A Blank PhoneGap App
+# Onsen-lab-04-navigator
 
-## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
+A demo on stack navigator done in Lab CL1 Han Chiang.
 
