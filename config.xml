@@ -3,7 +3,7 @@
 xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Lab-04-Stack-Navigator</name>
     <description>
-        Onsen page demo lab version
+        Onsen navigator demo lab version
     </description>
     <author email="paulchin@hcu.edu.my" href="https://hcu.edu.my/">
         Han Chiang
